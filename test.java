@@ -3,6 +3,7 @@ public class HelloWorld {
         System.out.println("Hello this is Zuriel Smith");
     	System.out.println("Hello, this is Chris Lanini");
 		System.out.println("Hello, this is Jeremiah Reyes");
+	    	System.out.println("Hello,this is Weldon Wong");
     }
 
 }
