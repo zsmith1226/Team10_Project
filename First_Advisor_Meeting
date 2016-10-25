@@ -1,0 +1,54 @@
+October 18 2016
+
+1st Faculty Advisor Meeting 
+
+3:50 	Start Meeting
+
+3:50  -4:26	Project Proposal:
+		
+    -went over proposal (discussed the functionalities of our product)
+		
+    -explained services of our app that will help provide for our client.
+	
+    -radimsky suggest rewriting proposal ( problems with on the functionalities of the app, didn’t understand)
+		
+    - explain the photo booth, on what will it provide
+		
+    -explain how Functionality 1&2, 3&4 coincide and if they will overlap from our proposal 
+		
+    - going back to services and choices (create service order, send message to client of the order that was created ) after service order there might be function to share the images raw or edited.
+		
+    -product will be on mobile for now
+		
+    -discussion on storing data of the image taken (should be stored on phone or database?)
+		
+    -provide info of the pics and where to find them when taken from the phone… solution-instead of downloading , maybe to view the pictures and the person would have the option to download through a link.
+		
+    -talked about more services for service orders (message to the client customer of confirmation of the order was completed)
+		
+    - radimsky (additional function for viewing, say which pictures the customers want and toss the ones they don’t want.)
+		
+    -customer have multi service orders.
+		
+    -might have an edit button for service orders (customers want and don’t want)
+		
+    -features added—users be able to register, log in, client has an admin view
+		
+    -need company view to host and keep all info and customer view send request information from company. (ex. User phone lost or destroyed, database needed to hold data)
+		
+    -all administrative part be on servers (log in)
+		
+    -discuss about making a webpage( may need to provide )
+		
+    -add bios of staff and information of the company( make sure the information doesn’t come up again if person has read over. Should prompt whether if they want to read it.
+		
+    -discussed official meeting time (daily meetings every tues 3:45)
+
+4:26-4:30 Discussion of future plans:
+	
+  -discussed team foundation
+	- discussed what our goals are
+	- discussed charter doc, assign to team members
+	- discussed sprint plan
+	- set up meeting with client
+	
